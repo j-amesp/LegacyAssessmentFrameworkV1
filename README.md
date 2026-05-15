@@ -75,7 +75,7 @@ The framework measures optionality. It does not road toward any product, supplie
 Version 1.0 deliberately leaves two areas open. Numeric dependency weighting is not used as the spine because categorical roll-up is what survives a hostile review; a weighting layer may be added later as a tiebreaker for ranking multiple red systems against a finite remediation budget. Assessor competence is not defined by the framework; consistency depends on the anchored descriptors, the evidence indicators, and continuity of assessors across consecutive assessments.
 
 ## Licence
-The framework and workbook are published under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See License.MD for terms.
+The framework and workbook are published under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See Licence.MD for terms.
 
 ## Author
 
